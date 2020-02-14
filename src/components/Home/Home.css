@@ -1,0 +1,15 @@
+body{
+    margin:0px
+}
+.ab{
+    height:100vh;
+    margin-top: -30vh; 
+    margin-left: 0px; 
+    float: left;
+    margin-right:0px;
+    width:100vw;
+}
+.xy{
+    width:100vw;
+    height:90vh;  
+}

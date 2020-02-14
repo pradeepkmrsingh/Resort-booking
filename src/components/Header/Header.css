@@ -1,0 +1,12 @@
+.Headerbtn{
+    color:white;
+    font-weight:bold;
+    font-size: 1.6vw;
+    width:4vw;
+    float:left;
+    margin-right:4vw;
+}
+.resort{
+    flex-grow: 1;
+    font-size: 2vw;
+}

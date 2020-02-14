@@ -1,0 +1,65 @@
+body{
+    margin:0px;
+}
+.main{
+    display:flex;
+    justify-content:center;  
+}
+.service{
+ text-align: center;
+ padding:8vh;
+ font-weight: bold;
+ font-size:3vw;
+}
+.icons{
+    font-size: 3vw;
+}
+.main .mn{
+    width:80vw;
+    height:30vh;
+    text-align:center;
+    font-weight: bold;
+    font-size:2vw;
+    margin-top:-30px;
+}
+.servicebg{
+    background-color: lightgrey;
+}
+.servicemain{
+    background-color:lightsteelblue;
+    width:100vw
+}
+.serviceroom{
+    margin-top: 300px;
+    display:flex;
+    justify-content: space-evenly;
+    margin-right:20px
+}
+.servicetitle{
+    margin-top:25vh;
+    text-align:center;
+    font-weight: bold;
+    font-size:24px;
+    background-color: pink;
+    padding-top:20px;
+    padding-bottom:20px;
+    width:100vw;
+}
+.rmcontainer{
+    margin-top:5vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+.containerx{
+    width:20vw;
+    font-weight: bold;
+    font-size:2vw;
+}
+.containerxy{
+  margin-top:3vh;
+  font-size:1.5vw;
+  font-weight:normal;
+}
+li{
+    list-style-type: none;
+}

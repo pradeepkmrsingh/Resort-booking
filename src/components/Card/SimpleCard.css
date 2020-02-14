@@ -1,0 +1,67 @@
+.simplecard{
+ height:40vh;
+ width:30vw;
+ background-color: rgb(192, 192, 192);
+ margin:auto;
+ margin-top:30vh;
+ opacity:0.9;
+ position:relative;
+}
+.title{
+  margin-left:4vw;
+  font-weight: bold;
+  font-size: 2vw;
+}
+.hotel{
+    margin-left:11vw;
+    font-weight: bold;
+    font-size: 2vw;
+}
+.btn{
+  margin-top:15vh;
+  margin-left:8vw;
+  font-size: 2vw;
+  height: 7vh;
+  cursor: pointer;
+  font-weight: bold;
+  background-color: wheat;
+  z-index: 1;
+  opacity: 1 !important;
+}
+.cd{
+    position:absolute;
+}
+Link{
+    text-decoration: none;
+}
+.xsimplecard{
+ margin-top:-60vh;
+ margin-left:35vw;
+ height:40vh;
+ width:30vw;
+ background-color: rgb(192, 192, 192);
+ opacity:0.9;
+ position:relative;
+ }
+ .xtitle{
+   margin-left:5vw;
+   font-weight: bold;
+   font-size: 2vw;
+ }
+ .xhotel{
+     margin-left:11vw;
+     font-weight: bold;
+     font-size: 2vw;
+ }
+ .xbtn{
+  margin-top:15vh;
+  margin-left:7vw;
+  font-size: 2vw;
+  height: 7vh;
+  cursor: pointer;
+  font-weight: bold;
+  background-color: wheat;
+  z-index: 1;
+  opacity: 1 !important;
+ }
+ 
