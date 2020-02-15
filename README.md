@@ -72,6 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 <img width="928" alt="resortimg2" src="https://user-images.githubusercontent.com/32439809/74582946-1580f000-4fe8-11ea-91fb-373ce114d6be.jpg">
 <img width="928" alt="resortimg3" src="https://user-images.githubusercontent.com/32439809/74582951-1ade3a80-4fe8-11ea-85e1-5dac477d2a4f.jpg">
 <img width="935" alt="reactimg4" src="https://user-images.githubusercontent.com/32439809/74582952-1e71c180-4fe8-11ea-9dde-018799bb24cf.PNG">
-<img width="928" alt="resortimg5" src=https://user-images.githubusercontent.com/32439809/74582954-20d41b80-4fe8-11ea-8464-4598999acc7e.jpg">
+<img width="928" alt="resortimg5" src="https://user-images.githubusercontent.com/32439809/74582954-20d41b80-4fe8-11ea-8464-4598999acc7e.jpg">
 
 
